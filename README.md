@@ -1,4 +1,4 @@
-# T401 (2020.10.06) -CSS - powtórzenie
+# T405 - HTML/CSS/JS - powtórzenie
 ## -------INFO
 ```
 1. CSS - selektory
@@ -7,8 +7,8 @@
 ```
 
 ### --------ZAD
-```
-T40201 - Przygotuj stronę z rozwijalnym menu
+``` 
+T40201 - Przygotuj stronę WWW przeznaczoną do konwersji na szablon Wordpressa.
 
 ```
 ### --------Links
