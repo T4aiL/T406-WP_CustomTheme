@@ -1,15 +1,16 @@
 # T405 - HTML/CSS/JS - powtórzenie
 ## -------INFO
 ```
+1. Layout strony (Figma)
 1. CSS - selektory
-2. CSS - Pozycjonowanie elementów
-3. Animacje
+1. CSS - Pozycjonowanie elementów
+1. Animacje
 ```
 
 ### --------ZAD
 ``` 
-T40201 - Przygotuj stronę WWW przeznaczoną do konwersji na szablon Wordpressa.
-
+T40201 - Przygotuj stronę WWW przeznaczoną do konwersji na szablon Wordpressa. Przygotuj co najmniej trzy strony statyczne (Home, O nas, Blog).
+Na Home umieść Meny w Header, Footer z sekcją ikon social mediów, oraz listę najnowszych wpisów wraz z sekcją testimonials zbudowaną z trzech kart wyposażonych w zdjęcie użytkownika.
 ```
 ### --------Links
 https://github.com/T4aiL/T405-CSS-recap
