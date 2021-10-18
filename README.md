@@ -9,7 +9,9 @@
 
 ### --------ZAD
 ``` 
-T40201 - Przygotuj stronę WWW przeznaczoną do konwersji na szablon Wordpressa. 
+T40501 - Przygotuj projekt strony w Figma
+
+T40502 - Przygotuj stronę WWW przeznaczoną do konwersji na szablon Wordpressa. 
 Przygotuj co najmniej trzy strony statyczne (Home, O nas, Blog).
 Na Home umieść Menu w Header, Footer z sekcją ikon social mediów,
 oraz listę najnowszych wpisów, a także sekcję testimonials zbudowaną 
