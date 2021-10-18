@@ -11,7 +11,7 @@
 ``` 
 T40201 - Przygotuj stronę WWW przeznaczoną do konwersji na szablon Wordpressa. 
 Przygotuj co najmniej trzy strony statyczne (Home, O nas, Blog).
-Na Home umieść Meny w Header, Footer z sekcją ikon social mediów,
+Na Home umieść Menu w Header, Footer z sekcją ikon social mediów,
 oraz listę najnowszych wpisów, a także sekcję testimonials zbudowaną 
 z trzech kart wyposażonych w zdjęcie użytkownika.
 Maksymalna ocena wymaga slidera wyposażonego w strzałki nawigacji oraz autoodtwarzanie pokazującego najnowsze wpisy.
