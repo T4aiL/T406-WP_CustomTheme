@@ -2,9 +2,9 @@
 ## -------INFO
 ```
 1. Layout strony (Figma)
-1. CSS - selektory
-1. CSS - Pozycjonowanie elementów
-1. Animacje
+2. CSS - selektory
+3. CSS - Pozycjonowanie elementów
+4. Animacje
 ```
 
 ### --------ZAD
