@@ -19,7 +19,9 @@ z trzech kart wyposażonych w zdjęcie użytkownika.
 Maksymalna ocena wymaga slidera wyposażonego w strzałki nawigacji oraz autoodtwarzanie pokazującego najnowsze wpisy.
 ```
 ### --------Links
-https://github.com/T4aiL/T405-CSS-recap
+https://github.com/T4aiL/T406-CSS-recap
+
+https://github.com/T3iL/T304-Layouts/tree/master/Layouts
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
