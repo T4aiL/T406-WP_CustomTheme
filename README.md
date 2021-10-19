@@ -45,6 +45,6 @@ https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
 ### ---------Tuts
 JavaScript ES6 Modules : https://youtu.be/cRHQNNcYf6s
 
-(Tutorial WordPress – od szablonu HTML do dynamicznego motywu WP)[https://wpadmin.pl/tutorial-wordpress-od-szablonu-html-do-dynamicznego-motywu-wp/#:~:text=Tutorial%20WordPress%20%E2%80%93%20od%20szablonu%20HTML%20do%20dynamicznego,Loop%20%E2%80%93%20p%C4%99tla%20wy%C5%9Bwietlaj%C4%85ca%20wpisy%20w%20WP.%20]
+[Tutorial WordPress – od szablonu HTML do dynamicznego motywu WP)[https://wpadmin.pl/tutorial-wordpress-od-szablonu-html-do-dynamicznego-motywu](https://wpadmin.pl/tutorial-wordpress-od-szablonu-html-do-dynamicznego-motywu-wp/#:~:text=Tutorial%20WordPress%20%E2%80%93%20od%20szablonu%20HTML%20do%20dynamicznego,Loop%20%E2%80%93%20p%C4%99tla%20wy%C5%9Bwietlaj%C4%85ca%20wpisy%20w%20WP.%20)
 ### ---------License
 [MIT](https://choosealicense.com/licenses/mit/)
