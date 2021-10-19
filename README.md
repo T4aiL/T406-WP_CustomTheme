@@ -1,4 +1,4 @@
-# T405 - HTML/CSS/JS - powtórzenie
+# T406 - HTML/CSS/JS - powtórzenie
 ## -------INFO
 ```
 1. Layout strony (Figma)
