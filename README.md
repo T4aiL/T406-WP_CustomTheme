@@ -21,7 +21,7 @@ Maksymalna ocena wymaga slidera wyposażonego w strzałki nawigacji oraz autoodt
 ### --------Links
 https://github.com/T4aiL/T406-CSS-recap
 
-https://github.com/T3iL/T304-Layouts/tree/master/Layouts
+Layout inspirations: https://drive.google.com/drive/folders/13lyoR2wH2LrDdUcLWojNBxd6DyDRQ_e_
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
