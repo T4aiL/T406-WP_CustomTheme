@@ -53,6 +53,15 @@ if ( have_posts() ) {
 ?>
 ```
 
+6. theme_support
+```php
+function sro_theme_support(){
+    add_theme_support( 'custom-logo' );
+    add_theme_support( 'custom-background' );
+    add_theme_support( 'custom-header' );  
+    add_theme_support( 'menus' );  
+}
+```
 6. enqueue
 ```php
 function wpdocs_theme_name_scripts() {
