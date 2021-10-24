@@ -55,7 +55,7 @@ if ( have_posts() ) {
 
 6. theme_support
 ```php
-function sro_theme_support(){
+function my_theme_support(){
     add_theme_support( 'custom-logo' );
     add_theme_support( 'custom-background' );
     add_theme_support( 'custom-header' );  
