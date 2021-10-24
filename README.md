@@ -12,7 +12,7 @@
 
 * style.css (
 /*
-Template Name: Snarfer
+Template Name: My theme
 */
 * index.php
 
