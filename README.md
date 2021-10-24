@@ -1,11 +1,32 @@
 # T406 - HTML/CSS/JS - powtórzenie
 ## -------INFO
-```
+
 1. Layout strony (Figma)
 2. CSS - selektory
 3. CSS - Pozycjonowanie elementów
 4. Animacje
-```
+
+#### Custom template
+
+1. Minimal files
+
+* style.css
+* index.php
+
+2. Typical files
+
+* comments.php
+* comments-popup.php
+* footer.php
+* header.php
+* sidebar.php
+
+3. Includes
+
+* get_header().
+* get_sidebar().
+* get_footer().
+* get_search_form().
 
 ### --------ZAD
 ``` 
