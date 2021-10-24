@@ -1,4 +1,4 @@
-# T406 - HTML/CSS/JS - powtórzenie
+# T406 - Custom Theme
 ## -------INFO
 
 1. Layout strony (Figma)
