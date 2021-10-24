@@ -31,6 +31,17 @@ Template Name: My theme
 * get_footer().
 * get_search_form().
 
+4. Inserts
+
+* the_title();
+* the_time();
+* the_category();
+
+5. Loop
+```php
+<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+```
+
 ### --------ZAD
 ``` 
 T40501 - Przygotuj projekt strony w Figma
