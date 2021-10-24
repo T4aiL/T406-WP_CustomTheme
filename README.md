@@ -62,7 +62,7 @@ function my_theme_support(){
     add_theme_support( 'menus' );  
 }
 ```
-6. enqueue
+7. enqueue
 ```php
 function wpdocs_theme_name_scripts() {
     wp_enqueue_style( 'style-name', get_stylesheet_uri() );
