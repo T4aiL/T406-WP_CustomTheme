@@ -87,19 +87,13 @@ function wpb_custom_new_menu() {
   );
 }
 add_action( 'init', 'wpb_custom_new_menu' );
-```
 
+...
 
-```php
-function wpb_custom_new_menu() {
-    register_nav_menus(
-      array(
-        'my-custom-menu' => __( 'My Custom Menu' ),
-        'extra-menu' => __( 'Extra Menu' )
-      )
-    );
-  }
-  add_action( 'init', 'wpb_custom_new_menu' );
+wp_nav_menu( array( 
+    'theme_location' => 'my-custom-menu', 
+    'container_class' => 'custom-menu-class' ) ); 
+?>
 ```
 
 ### --------ZAD
