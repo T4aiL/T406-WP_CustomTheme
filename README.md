@@ -39,7 +39,16 @@ Template Name: My theme
 
 5. Loop
 ```php
-<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+<?php 
+if ( have_posts() ) {
+	while ( have_posts() ) {
+		the_post(); 
+		//
+		// Post Content here
+		//
+	} // end while
+} // end if
+?>
 ```
 
 ### --------ZAD
