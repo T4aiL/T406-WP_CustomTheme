@@ -76,6 +76,32 @@ add_action( 'wp_enqueue_scripts', 'wpdocs_theme_name_scripts' );
 * post_class()
 * comment_class()
 
+9.menu
+```php
+function wpb_custom_new_menu() {
+  register_nav_menus(
+    array(
+      'my-custom-menu' => __( 'My Custom Menu' ),
+      'extra-menu' => __( 'Extra Menu' )
+    )
+  );
+}
+add_action( 'init', 'wpb_custom_new_menu' );
+```
+
+
+```php
+function wpb_custom_new_menu() {
+    register_nav_menus(
+      array(
+        'my-custom-menu' => __( 'My Custom Menu' ),
+        'extra-menu' => __( 'Extra Menu' )
+      )
+    );
+  }
+  add_action( 'init', 'wpb_custom_new_menu' );
+```
+
 ### --------ZAD
 ``` 
 T40501 - Przygotuj projekt strony w Figma
