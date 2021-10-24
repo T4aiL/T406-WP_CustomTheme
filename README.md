@@ -52,8 +52,21 @@ if ( have_posts() ) {
 } end if
 ?>
 ```
-* the_permalink()
-* the_title()
+
+6. enqueue
+```php
+function themeslug_enqueue_style() {
+    wp_enqueue_style( 'my-theme', 'style.css', false );
+}
+ 
+function themeslug_enqueue_script() {
+    wp_enqueue_script( 'my-js', 'filename.js', false );
+}
+ 
+add_action( 'wp_enqueue_scripts', 'themeslug_enqueue_style' );
+add_action( 'wp_enqueue_scripts', 'themeslug_enqueue_script' );
+```
+
 ### --------ZAD
 ``` 
 T40501 - Przygotuj projekt strony w Figma
