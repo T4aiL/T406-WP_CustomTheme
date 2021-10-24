@@ -137,5 +137,7 @@ https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
 JavaScript ES6 Modules : https://youtu.be/cRHQNNcYf6s
 
 [Tutorial WordPress – od szablonu HTML do dynamicznego motywu WP)[https://wpadmin.pl/tutorial-wordpress-od-szablonu-html-do-dynamicznego-motywu](https://wpadmin.pl/tutorial-wordpress-od-szablonu-html-do-dynamicznego-motywu-wp/#:~:text=Tutorial%20WordPress%20%E2%80%93%20od%20szablonu%20HTML%20do%20dynamicznego,Loop%20%E2%80%93%20p%C4%99tla%20wy%C5%9Bwietlaj%C4%85ca%20wpisy%20w%20WP.%20)
+
+[How to Create a Simple WordPress Plugin | 2021 WordPress Tutorial](https://www.youtube.com/watch?v=7REUdrDM_uE)
 ### ---------License
 [MIT](https://choosealicense.com/licenses/mit/)
