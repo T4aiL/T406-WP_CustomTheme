@@ -70,6 +70,11 @@ function wpdocs_theme_name_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'wpdocs_theme_name_scripts' );
 ```
+8.Theme classes
+
+* body_class()
+* post_class()
+* comment_class()
 
 ### --------ZAD
 ``` 
