@@ -36,6 +36,8 @@ Template Name: My theme
 * the_title();
 * the_time();
 * the_category();
+* the_author();
+* the_permalink();
 
 5. Loop
 ```php
@@ -50,7 +52,8 @@ if ( have_posts() ) {
 } end if
 ?>
 ```
-
+* the_permalink()
+* the_title()
 ### --------ZAD
 ``` 
 T40501 - Przygotuj projekt strony w Figma
