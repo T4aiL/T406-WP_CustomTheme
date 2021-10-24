@@ -55,16 +55,11 @@ if ( have_posts() ) {
 
 6. enqueue
 ```php
-function themeslug_enqueue_style() {
-    wp_enqueue_style( 'my-theme', 'style.css', false );
+function wpdocs_theme_name_scripts() {
+    wp_enqueue_style( 'style-name', get_stylesheet_uri() );
+    wp_enqueue_script( 'script-name', get_template_directory_uri() . '/js/example.js', array(), '1.0.0', true );
 }
- 
-function themeslug_enqueue_script() {
-    wp_enqueue_script( 'my-js', 'filename.js', false );
-}
- 
-add_action( 'wp_enqueue_scripts', 'themeslug_enqueue_style' );
-add_action( 'wp_enqueue_scripts', 'themeslug_enqueue_script' );
+add_action( 'wp_enqueue_scripts', 'wpdocs_theme_name_scripts' );
 ```
 
 ### --------ZAD
