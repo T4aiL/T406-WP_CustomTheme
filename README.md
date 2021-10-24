@@ -10,7 +10,10 @@
 
 1. Minimal files
 
-* style.css
+* style.css (
+/*
+Template Name: Snarfer
+*/
 * index.php
 
 2. Typical files
