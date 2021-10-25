@@ -45,6 +45,7 @@ Template Name: My theme
 * the_category();
 * the_author();
 * the_permalink();
+* the_content();
 
 5. Loop
 ```php
@@ -55,8 +56,8 @@ if ( have_posts() ) {
 		//
 		// Post Content here
 		//
-	} end while
-} end if
+	}
+}
 ?>
 ```
 
