@@ -100,14 +100,24 @@ wp_nav_menu( array(
 
 ### --------ZAD
 ``` 
-T40501 - Przygotuj projekt strony w Figma
+T40601 - Przygotuj projekt strony w Figma
 
-T40502 - Przygotuj stronę WWW przeznaczoną do konwersji na szablon Wordpressa. 
+T40602 - Przygotuj stronę WWW przeznaczoną do konwersji na szablon Wordpressa. 
 Przygotuj co najmniej trzy strony statyczne (Home, O nas, Blog).
 Na Home umieść Menu w Header, Footer z sekcją ikon social mediów,
 oraz listę najnowszych wpisów, a także sekcję testimonials zbudowaną 
 z trzech kart wyposażonych w zdjęcie użytkownika.
 Maksymalna ocena wymaga slidera wyposażonego w strzałki nawigacji oraz autoodtwarzanie pokazującego najnowsze wpisy.
+
+T40603 - dokonaj konwersji projektu greaficznego strony na szablon wordpressa (Custom theme). 
+Wymagane funkcjonalności:
+- Theme zawiera informacje o sobie (Nazwę, Autor, Opis)
+- Theme używa header i stopkę na każdej podstronie
+- Theme zwiera stronę blog z wpisami z odpowiedniej kategorii
+- Theme zawiera stronę startową ze sliderem (na ocenę maksymalną)
+- Theme zawiera menu (co najmniej jedno menu)
+
+Dodatkowe funkcjonalności zgodnie z projektem graficznym (Figma)
 ```
 ### --------Links
 https://github.com/T4aiL/T406-CSS-recap
