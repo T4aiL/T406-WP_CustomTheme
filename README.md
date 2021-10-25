@@ -10,6 +10,7 @@
 
 - Mikołaj: [Figma design](https://www.figma.com/file/NZaBJrmjiV05O6N46C73JH/Szablon-Wordpress?node-id=0%3A1)
 - Michał: [Figma Design](https://www.figma.com/file/IeqiN8AMKLmjjlRvmuSl6n/Untitled?node-id=0%3A1)
+- Marcin [Figma Design](https://www.figma.com/file/MMeQuXss4JoQsNfxLy6byK/Untitled?node-id=0%3A1)
 
 #### Custom template
 
