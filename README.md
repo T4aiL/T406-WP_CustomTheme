@@ -6,6 +6,10 @@
 3. CSS - Pozycjonowanie elementów
 4. Animacje
 
+#### Figma designs
+
+Mikołaj: [Figma design](https://www.figma.com/file/NZaBJrmjiV05O6N46C73JH/Szablon-Wordpress?node-id=0%3A1) 
+
 #### Custom template
 
 1. Minimal files
