@@ -86,6 +86,8 @@ add_action( 'wp_enqueue_scripts', 'wpdocs_theme_name_scripts' );
 
 9.menu
 ```php
+functions.php
+
 function wpb_custom_new_menu() {
   register_nav_menus(
     array(
@@ -97,7 +99,7 @@ function wpb_custom_new_menu() {
 add_action( 'init', 'wpb_custom_new_menu' );
 ?>
 
-...
+... HTML
 
 <?php
 wp_nav_menu( array( 
