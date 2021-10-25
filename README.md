@@ -12,6 +12,7 @@
 - Michał: [Figma Design](https://www.figma.com/file/IeqiN8AMKLmjjlRvmuSl6n/Untitled?node-id=0%3A1)
 - Marcin: [Figma Design](https://www.figma.com/file/MMeQuXss4JoQsNfxLy6byK/Untitled?node-id=0%3A1)
 - Dawid: [Figma Design](https://www.figma.com/file/rngjCahLoxBuHC3AqiDRGf/Untitled?node-id=0%3A1)
+- Konrad: [Figma Design](https://www.figma.com/file/dKFVNdjUIG7C9KPcDNFnms/Szablon-Figma?node-id=4%3A26)
 
 #### Custom template
 
