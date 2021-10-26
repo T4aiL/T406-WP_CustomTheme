@@ -131,7 +131,7 @@ Wymagane funkcjonalności:
 Dodatkowe funkcjonalności zgodnie z projektem graficznym (Figma)
 ```
 ### --------Links
-https://github.com/T4aiL/T406-CSS-recap
+https://github.com/T4aiL/T406-WP_CustomTheme
 
 Layout inspirations: https://drive.google.com/drive/folders/13lyoR2wH2LrDdUcLWojNBxd6DyDRQ_e_
 
