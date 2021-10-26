@@ -57,8 +57,8 @@ if ( have_posts() ) {
 		//
 		// Post Content here
 		//
-	}
-}
+	} // end while
+} // end if
 ?>
 ```
 
