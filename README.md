@@ -137,7 +137,7 @@ Layout inspirations: https://drive.google.com/drive/folders/13lyoR2wH2LrDdUcLWoj
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
-[codex.wordpress.org](https://codex.wordpress.org)
+[https://codex.wordpress.org/Theme_Development](https://codex.wordpress.org/Theme_Development)
 
 ### --------Tutorials
 [Real Glassmorphism Card Hover Effects | Html CSS Glass morphism Effects](https://youtu.be/hv0rNxr1XXk)
