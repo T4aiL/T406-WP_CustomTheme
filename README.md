@@ -123,7 +123,7 @@ Maksymalna ocena wymaga slidera wyposażonego w strzałki nawigacji oraz autoodt
 T40603 - dokonaj konwersji projektu greaficznego strony na szablon wordpressa (Custom theme). 
 Wymagane funkcjonalności:
 - Theme zawiera informacje o sobie (Nazwę, Autor, Opis)
-- Theme używa header i stopkę na każdej podstronie
+- Theme używa nagłówek i stopkę na każdej podstronie
 - Theme zwiera stronę blog z wpisami z odpowiedniej kategorii
 - Theme zawiera stronę startową ze sliderem (na ocenę maksymalną)
 - Theme zawiera menu (co najmniej jedno menu)
