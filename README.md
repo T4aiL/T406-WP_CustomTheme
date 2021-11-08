@@ -15,6 +15,7 @@
 - Konrad: [Figma Konrada](https://www.figma.com/file/dKFVNdjUIG7C9KPcDNFnms/Szablon-Figma?node-id=4%3A26)
 - Włodek [Figma Włodka](https://www.figma.com/file/dDtft0tZLBmEsdUK5umyn8/Untitled?node-id=0%3A1)
 - Łukasz [Figma Łukasza](https://www.figma.com/file/KCTWT1dl7cawSPxWxOW5pX/Untitled)
+- Kamil [Figma Kamila](https://www.figma.com/file/24JqxDdwmEoYdtlMlg9CoO/Untitled?node-id=0%3A1)
 
 #### Custom template
 
