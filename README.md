@@ -8,12 +8,13 @@
 
 #### Figma designs
 
-- Mikołaj: [Figma design](https://www.figma.com/file/NZaBJrmjiV05O6N46C73JH/Szablon-Wordpress?node-id=0%3A1)
-- Michał: [Figma Design](https://www.figma.com/file/IeqiN8AMKLmjjlRvmuSl6n/Untitled?node-id=0%3A1)
-- Marcin: [Figma Design](https://www.figma.com/file/MMeQuXss4JoQsNfxLy6byK/Untitled?node-id=0%3A1)
-- Dawid: [Figma Design](https://www.figma.com/file/rngjCahLoxBuHC3AqiDRGf/Untitled?node-id=0%3A1)
-- Konrad: [Figma Design](https://www.figma.com/file/dKFVNdjUIG7C9KPcDNFnms/Szablon-Figma?node-id=4%3A26)
-- Włodek [Figma design](https://www.figma.com/file/dDtft0tZLBmEsdUK5umyn8/Untitled?node-id=0%3A1)
+- Mikołaj: [Figma Mikołaja](https://www.figma.com/file/NZaBJrmjiV05O6N46C73JH/Szablon-Wordpress?node-id=0%3A1)
+- Michał: [Figma Michała](https://www.figma.com/file/IeqiN8AMKLmjjlRvmuSl6n/Untitled?node-id=0%3A1)
+- Marcin: [Figma Marcina](https://www.figma.com/file/MMeQuXss4JoQsNfxLy6byK/Untitled?node-id=0%3A1)
+- Dawid: [Figma Dawida](https://www.figma.com/file/rngjCahLoxBuHC3AqiDRGf/Untitled?node-id=0%3A1)
+- Konrad: [Figma Konrada](https://www.figma.com/file/dKFVNdjUIG7C9KPcDNFnms/Szablon-Figma?node-id=4%3A26)
+- Włodek [Figma Włodka](https://www.figma.com/file/dDtft0tZLBmEsdUK5umyn8/Untitled?node-id=0%3A1)
+- Łukasz [Figma Łukasza](https://www.figma.com/file/KCTWT1dl7cawSPxWxOW5pX/Untitled)
 
 #### Custom template
 
